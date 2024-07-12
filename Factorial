@@ -11,3 +11,5 @@ def factorial_function(n):
     return product
 for n in range(1,6):
     print(n,factorial_function(n))
+
+#generate the output
