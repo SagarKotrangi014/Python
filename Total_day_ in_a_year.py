@@ -32,4 +32,4 @@ def day_of_year(year, month, day):
     else:
         return None
 
-print(day_of_year(2023, 12, 31))
+print(day_of_year(2024, 12, 31))
